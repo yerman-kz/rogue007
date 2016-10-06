@@ -1,0 +1,142 @@
+a:8:{s:6:"config";a:5:{s:10:"phpVersion";s:5:"7.0.3";s:10:"yiiVersion";s:5:"2.0.9";s:11:"application";a:4:{s:3:"yii";s:5:"2.0.9";s:4:"name";s:14:"My Application";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:4:{s:7:"version";s:5:"7.0.3";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;}s:10:"extensions";a:6:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:57:"E:\xampp\htdocs\rogue.dev\vendor/yiisoft/yii2-swiftmailer";}}s:24:"yiisoft/yii2-codeception";a:3:{s:4:"name";s:24:"yiisoft/yii2-codeception";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/codeception";s:57:"E:\xampp\htdocs\rogue.dev\vendor/yiisoft/yii2-codeception";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:55:"E:\xampp\htdocs\rogue.dev\vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:51:"E:\xampp\htdocs\rogue.dev\vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:49:"E:\xampp\htdocs\rogue.dev\vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:51:"E:\xampp\htdocs\rogue.dev\vendor/yiisoft/yii2-faker";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:13:{s:4:"host";s:9:"rogue.dev";s:10:"connection";s:10:"keep-alive";s:14:"content-length";s:2:"73";s:13:"cache-control";s:9:"max-age=0";s:6:"origin";s:16:"http://rogue.dev";s:25:"upgrade-insecure-requests";s:1:"1";s:10:"user-agent";s:110:"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36";s:12:"content-type";s:33:"application/x-www-form-urlencoded";s:6:"accept";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:7:"referer";s:27:"http://rogue.dev/task/index";s:15:"accept-encoding";s:13:"gzip, deflate";s:15:"accept-language";s:14:"en-US,en;q=0.8";s:6:"cookie";s:210:"_csrf=de61e37df9bc664b0a6daf867d6ff35b57826894b02fe358bb5e43ef6b93197ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22wqFYCb-jDIkIinJptvkDE7ozu6ph9VyA%22%3B%7D; PHPSESSID=9a975eamipfo9ev6kc10sss654";}s:15:"responseHeaders";a:2:{s:12:"X-Powered-By";s:9:"PHP/7.0.3";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:10:"task/index";s:6:"action";s:45:"app\controllers\TaskController::actionIndex()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:3:{s:12:"Content Type";s:33:"application/x-www-form-urlencoded";s:3:"Raw";s:73:"type=0&_csrf=RnJTdWxfa3MxAxUsLz1GGQI7ODwFMSEDMgQ4MSloBAkzRCMdVQkSMg%3D%3D";s:17:"Decoded to Params";a:2:{s:4:"type";s:1:"0";s:5:"_csrf";s:56:"RnJTdWxfa3MxAxUsLz1GGQI7ODwFMSEDMgQ4MSloBAkzRCMdVQkSMg==";}}s:6:"SERVER";a:54:{s:16:"REDIRECT_MIBDIRS";s:24:"E:/xampp/php/extras/mibs";s:19:"REDIRECT_MYSQL_HOME";s:16:"\xampp\mysql\bin";s:21:"REDIRECT_OPENSSL_CONF";s:31:"E:/xampp/apache/bin/openssl.cnf";s:29:"REDIRECT_PHP_PEAR_SYSCONF_DIR";s:10:"\xampp\php";s:14:"REDIRECT_PHPRC";s:10:"\xampp\php";s:12:"REDIRECT_TMP";s:10:"\xampp\tmp";s:15:"REDIRECT_STATUS";s:3:"200";s:7:"MIBDIRS";s:24:"E:/xampp/php/extras/mibs";s:10:"MYSQL_HOME";s:16:"\xampp\mysql\bin";s:12:"OPENSSL_CONF";s:31:"E:/xampp/apache/bin/openssl.cnf";s:20:"PHP_PEAR_SYSCONF_DIR";s:10:"\xampp\php";s:5:"PHPRC";s:10:"\xampp\php";s:3:"TMP";s:10:"\xampp\tmp";s:9:"HTTP_HOST";s:9:"rogue.dev";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:14:"CONTENT_LENGTH";s:2:"73";s:18:"HTTP_CACHE_CONTROL";s:9:"max-age=0";s:11:"HTTP_ORIGIN";s:16:"http://rogue.dev";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:15:"HTTP_USER_AGENT";s:110:"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36";s:12:"CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:11:"HTTP_ACCEPT";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:12:"HTTP_REFERER";s:27:"http://rogue.dev/task/index";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:20:"HTTP_ACCEPT_LANGUAGE";s:14:"en-US,en;q=0.8";s:11:"HTTP_COOKIE";s:210:"_csrf=de61e37df9bc664b0a6daf867d6ff35b57826894b02fe358bb5e43ef6b93197ba%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22wqFYCb-jDIkIinJptvkDE7ozu6ph9VyA%22%3B%7D; PHPSESSID=9a975eamipfo9ev6kc10sss654";s:4:"PATH";s:539:"C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Yerman\AppData\Local\Programs\Python\Python36-32;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Users\Yerman\AppData\Roaming\npm;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;";s:10:"SystemRoot";s:10:"C:\WINDOWS";s:7:"COMSPEC";s:27:"C:\WINDOWS\system32\cmd.exe";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:6:"WINDIR";s:10:"C:\WINDOWS";s:16:"SERVER_SIGNATURE";s:94:"<address>Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/7.0.3 Server at rogue.dev Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:46:"Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/7.0.3";s:11:"SERVER_NAME";s:9:"rogue.dev";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:9:"127.0.0.1";s:13:"DOCUMENT_ROOT";s:30:"E:/xampp/htdocs/rogue.dev/web/";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:30:"E:/xampp/htdocs/rogue.dev/web/";s:12:"SERVER_ADMIN";s:19:"webmaster@rogue.dev";s:15:"SCRIPT_FILENAME";s:39:"E:/xampp/htdocs/rogue.dev/web/index.php";s:11:"REMOTE_PORT";s:5:"59098";s:12:"REDIRECT_URL";s:11:"/task/index";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"QUERY_STRING";s:0:"";s:11:"REQUEST_URI";s:11:"/task/index";s:11:"SCRIPT_NAME";s:10:"/index.php";s:8:"PHP_SELF";s:10:"/index.php";s:18:"REQUEST_TIME_FLOAT";d:1475772758.6300001;s:12:"REQUEST_TIME";i:1475772758;}s:3:"GET";a:0:{}s:4:"POST";a:2:{s:4:"type";s:1:"0";s:5:"_csrf";s:56:"RnJTdWxfa3MxAxUsLz1GGQI7ODwFMSEDMgQ4MSloBAkzRCMdVQkSMg==";}s:6:"COOKIE";a:2:{s:5:"_csrf";s:130:"de61e37df9bc664b0a6daf867d6ff35b57826894b02fe358bb5e43ef6b93197ba:2:{i:0;s:5:"_csrf";i:1;s:32:"wqFYCb-jDIkIinJptvkDE7ozu6ph9VyA";}";s:9:"PHPSESSID";s:26:"9a975eamipfo9ev6kc10sss654";}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}s:3:"log";a:1:{s:8:"messages";a:18:{i:0;a:5:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1475772758.6558831;i:4;a:0:{}}i:1;a:5:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1475772758.6559191;i:4;a:0:{}}i:2;a:5:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1475772758.663017;i:4;a:0:{}}i:3;a:5:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1475772758.6670041;i:4;a:0:{}}i:4;a:5:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1475772758.6674919;i:4;a:0:{}}i:5;a:5:{i:0;s:59:"Request parsed with URL rule: <controller:\w+>/<action:\w+>";i:1;i:8;i:2;s:29:"yii\web\UrlRule::parseRequest";i:3;d:1475772758.669204;i:4;a:0:{}}i:6;a:5:{i:0;s:29:"Route requested: 'task/index'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1475772758.669225;i:4;a:0:{}}i:7;a:5:{i:0;s:24:"Route to run: task/index";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1475772758.6714821;i:4;a:0:{}}i:8;a:5:{i:0;s:61:"Running action: app\controllers\TaskController::actionIndex()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1475772758.6750419;i:4;a:0:{}}i:9;a:5:{i:0;s:21:"SELECT * FROM `tasks`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.6946499;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:10;a:5:{i:0;s:56:"Opening DB connection: mysql:host=localhost;dbname=rogue";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1475772758.694711;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:15;a:5:{i:0;s:30:"SHOW FULL COLUMNS FROM `tasks`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.6981311;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:18;a:5:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tasks' AND kcu.table_name = 'tasks'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7035611;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:21;a:5:{i:0;s:26:"SELECT * FROM `task_types`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7051401;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:24;a:5:{i:0;s:35:"SHOW FULL COLUMNS FROM `task_types`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.705632;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:27;a:5:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'task_types' AND kcu.table_name = 'task_types'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.710449;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:30;a:5:{i:0;s:67:"Rendering view file: E:\xampp\htdocs\rogue.dev\views\task\index.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1475772758.7136979;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:41;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:31;a:5:{i:0;s:69:"Rendering view file: E:\xampp\htdocs\rogue.dev\views\layouts\main.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1475772758.7144599;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:41;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}}}s:9:"profiling";a:3:{s:6:"memory";i:4776352;s:4:"time";d:0.10217499732971191;s:8:"messages";a:14:{i:11;a:5:{i:0;s:56:"Opening DB connection: mysql:host=localhost;dbname=rogue";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1475772758.694731;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:12;a:5:{i:0;s:56:"Opening DB connection: mysql:host=localhost;dbname=rogue";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1475772758.69695;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:13;a:5:{i:0;s:21:"SELECT * FROM `tasks`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.6970029;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:14;a:5:{i:0;s:21:"SELECT * FROM `tasks`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.6973929;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:16;a:5:{i:0;s:30:"SHOW FULL COLUMNS FROM `tasks`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.6981721;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:17;a:5:{i:0;s:30:"SHOW FULL COLUMNS FROM `tasks`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7024579;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:19;a:5:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tasks' AND kcu.table_name = 'tasks'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7036109;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:20;a:5:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tasks' AND kcu.table_name = 'tasks'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.704258;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:22;a:5:{i:0;s:26:"SELECT * FROM `task_types`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7051761;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:23;a:5:{i:0;s:26:"SELECT * FROM `task_types`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.705569;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:25;a:5:{i:0;s:35:"SHOW FULL COLUMNS FROM `task_types`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7056611;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:35:"SHOW FULL COLUMNS FROM `task_types`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7101979;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:28;a:5:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'task_types' AND kcu.table_name = 'task_types'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7104909;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:29;a:5:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'task_types' AND kcu.table_name = 'task_types'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7111599;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}}}s:2:"db";a:1:{s:8:"messages";a:12:{i:13;a:5:{i:0;s:21:"SELECT * FROM `tasks`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.6970029;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:14;a:5:{i:0;s:21:"SELECT * FROM `tasks`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.6973929;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:16;a:5:{i:0;s:30:"SHOW FULL COLUMNS FROM `tasks`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.6981721;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:17;a:5:{i:0;s:30:"SHOW FULL COLUMNS FROM `tasks`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7024579;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:19;a:5:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tasks' AND kcu.table_name = 'tasks'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7036109;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:20;a:5:{i:0;s:597:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'tasks' AND kcu.table_name = 'tasks'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.704258;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:26;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:22;a:5:{i:0;s:26:"SELECT * FROM `task_types`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7051761;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:23;a:5:{i:0;s:26:"SELECT * FROM `task_types`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.705569;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:25;a:5:{i:0;s:35:"SHOW FULL COLUMNS FROM `task_types`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7056611;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:26;a:5:{i:0;s:35:"SHOW FULL COLUMNS FROM `task_types`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7101979;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:28;a:5:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'task_types' AND kcu.table_name = 'task_types'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7104909;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}i:29;a:5:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'task_types' AND kcu.table_name = 'task_types'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1475772758.7111599;i:4;a:1:{i:0;a:5:{s:4:"file";s:56:"E:\xampp\htdocs\rogue.dev\controllers\TaskController.php";s:4:"line";i:36;s:8:"function";s:3:"all";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}}}}s:6:"assets";a:5:{s:19:"app\assets\AppAsset";a:9:{s:8:"basePath";s:29:"E:/xampp/htdocs/rogue.dev/web";s:7:"baseUrl";s:0:"";s:3:"css";a:1:{i:0;s:12:"css/site.css";}s:2:"js";a:0:{}s:7:"depends";a:2:{i:0;s:16:"yii\web\YiiAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:10:"sourcePath";N;s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:16:"yii\web\YiiAsset";a:9:{s:10:"sourcePath";s:52:"E:\xampp\htdocs\rogue.dev\vendor\yiisoft\yii2/assets";s:2:"js";a:1:{i:0;s:6:"yii.js";}s:7:"depends";a:1:{i:0;s:19:"yii\web\JqueryAsset";}s:8:"basePath";s:45:"E:\xampp\htdocs\rogue.dev\web\assets\12804f16";s:7:"baseUrl";s:16:"/assets/12804f16";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:19:"yii\web\JqueryAsset";a:9:{s:10:"sourcePath";s:50:"E:\xampp\htdocs\rogue.dev\vendor\bower/jquery/dist";s:2:"js";a:1:{i:0;s:9:"jquery.js";}s:8:"basePath";s:45:"E:\xampp\htdocs\rogue.dev\web\assets\7ce3407c";s:7:"baseUrl";s:16:"/assets/7ce3407c";s:7:"depends";a:0:{}s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:28:"yii\bootstrap\BootstrapAsset";a:9:{s:10:"sourcePath";s:53:"E:\xampp\htdocs\rogue.dev\vendor\bower/bootstrap/dist";s:3:"css";a:1:{i:0;s:17:"css/bootstrap.css";}s:8:"basePath";s:45:"E:\xampp\htdocs\rogue.dev\web\assets\c022434d";s:7:"baseUrl";s:16:"/assets/c022434d";s:7:"depends";a:0:{}s:2:"js";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:34:"yii\bootstrap\BootstrapPluginAsset";a:9:{s:10:"sourcePath";s:53:"E:\xampp\htdocs\rogue.dev\vendor\bower/bootstrap/dist";s:2:"js";a:1:{i:0;s:15:"js/bootstrap.js";}s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:8:"basePath";s:45:"E:\xampp\htdocs\rogue.dev\web\assets\c022434d";s:7:"baseUrl";s:16:"/assets/c022434d";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}}s:4:"mail";a:0:{}s:7:"summary";a:9:{s:3:"tag";s:13:"57f68156a1fee";s:3:"url";s:27:"http://rogue.dev/task/index";s:4:"ajax";i:0;s:6:"method";s:4:"POST";s:2:"ip";s:9:"127.0.0.1";s:4:"time";i:1475772758;s:10:"statusCode";i:200;s:8:"sqlCount";i:6;s:9:"mailCount";i:0;}}
